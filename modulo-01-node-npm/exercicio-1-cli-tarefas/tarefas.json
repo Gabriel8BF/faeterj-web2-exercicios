@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "texto": "Minha primeira tarefa",
+    "feita": true
+  },
+  {
+    "id": 2,
+    "texto": "Estudar Node.js no VS Code",
+    "feita": false
+  }
+]
