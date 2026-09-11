@@ -34,3 +34,20 @@ faeterj-web2-exercicios/
 ├── modulo-03-react-hooks/        # (Próximos módulos) Gerenciamento de Estado e Formulários
 ├── modulo-04-nextjs-routes/      # (Próximos módulos) Roteamento e App Router
 └── README.md
+
+
+## 🚀 Como Executar os Exercícios
+
+Como cada subpasta possui seu próprio ecossistema ou conjunto de dependências, siga os passos abaixo para testar localmente:
+
+```text
+Exercícios de Node.js (Módulo 1)
+# Entrar na pasta do exercício
+cd modulo-01-node-npm/exercicio-1-cli-tarefas
+
+# Instalar dependências (caso existam)
+npm install
+
+# Executar o script
+node tasks.js list
+
