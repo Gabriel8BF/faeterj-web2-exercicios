@@ -34,14 +34,17 @@ faeterj-web2-exercicios/
 ├── modulo-03-react-hooks/        # (Próximos módulos) Gerenciamento de Estado e Formulários
 ├── modulo-04-nextjs-routes/      # (Próximos módulos) Roteamento e App Router
 └── README.md
+```
 
+---
 
 ## 🚀 Como Executar os Exercícios
 
 Como cada subpasta possui seu próprio ecossistema ou conjunto de dependências, siga os passos abaixo para testar localmente:
 
-```text
-Exercícios de Node.js (Módulo 1)
+### Exercícios de Node.js (Módulo 1)
+
+```bash
 # Entrar na pasta do exercício
 cd modulo-01-node-npm/exercicio-1-cli-tarefas
 
@@ -50,4 +53,22 @@ npm install
 
 # Executar o script
 node tasks.js list
+```
 
+### Exercícios de React + Vite (Módulo 2 em diante)
+
+```bash
+# Entrar na pasta do módulo/projeto React
+cd modulo-02-react-props
+
+# Instalar dependências
+npm install
+
+# Iniciar o servidor de desenvolvimento
+npm run dev
+```
+## 📝 Sobre a Disciplina
+
+* **Instituição:** FAETERJ (Faculdade de Educação Tecnológica do Estado do Rio de Janeiro)
+* **Disciplina:** Programação e Design para Web II
+* **Foco:** Desenvolvimento Web Fullstack (Node.js, React, Next.js, TypeScript e Banco de Dados)
