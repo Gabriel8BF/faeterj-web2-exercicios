@@ -21,18 +21,18 @@ A pasta está organizada por módulos, acompanhando a evolução didática das a
 
 ```text
 faeterj-web2-exercicios/
-├── modulo-01-node-npm/           # Node.js nativo, NPM, scripts, dotenv e manipulação de arquivos
-│   ├── exercicio-1-cli-tarefas/  # CLI de tarefas com leitura/escrita JSON (fs/promises)
-│   ├── exercicio-2-servidor-http/# Servidor HTTP nativo com leitura de arquivos estáticos
-│   └── exercicio-3-config-env/   # Configuração segura com dotenv e mascaramento de tokens
+├── modulo-01-node-npm/                       # Node.js nativo, NPM, scripts, dotenv e manipulação de arquivos
+│   ├── exercicio-1-cli-tarefas/              # CLI de tarefas com leitura/escrita JSON (fs/promises)
+│   ├── exercicio-2-servidor-http/            # Servidor HTTP nativo com leitura de arquivos estáticos
+│   └── exercicio-3-config-env/               # Configuração segura com dotenv e mascaramento de tokens
 │
-├── modulo-02-react-props/        # Fundamentos de React, Vite, TypeScript e Componentização
-│   ├── design-system-basico/     # Componentes base: Button, Badge, Card, Avatar, Alert
-│   ├── tabela-alunos-dinamica/   # Renderização de listas (.map), props e renderização condicional
-│   └── galeria-projetos/         # Grid de projetos com filtros dinâmicos por tecnologia
+├── modulo-02-react-props/                    # Fundamentos de React, Vite, TypeScript e Componentização
+│   ├── exercicio-1-design-system-basico/     # Componentes base: Button, Badge, Card, Avatar, Alert
+│   ├── exercicio-2-tabela-alunos-dinamica/   # Renderização de listas (.map), props e renderização condicional
+│   └── exercicio-3-galeria-projetos/         # Grid de projetos com filtros dinâmicos por tecnologia
 │
-├── modulo-03-react-hooks/        # (Próximos módulos) Gerenciamento de Estado e Formulários
-├── modulo-04-nextjs-routes/      # (Próximos módulos) Roteamento e App Router
+├── modulo-03-react-hooks/                    # (Próximos módulos) Gerenciamento de Estado e Formulários
+├── modulo-04-nextjs-routes/                  # (Próximos módulos) Roteamento e App Router
 └── README.md
 ```
 
