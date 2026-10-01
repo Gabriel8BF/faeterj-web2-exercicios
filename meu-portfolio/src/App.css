@@ -1,0 +1,57 @@
+body { 
+  font-family: system-ui, sans-serif; 
+  background-color: #f3f4f6; 
+  margin: 0; 
+  padding: 2rem; 
+}
+
+.botao { 
+  padding: 0.6rem 1.4rem; 
+  border: none; 
+  border-radius: 6px; 
+  font-size: 1rem; 
+  cursor: pointer; 
+  margin: 1rem 0; 
+}
+
+.botao--primary { 
+  background-color: #5fa04e; 
+  color: white; 
+}
+.botao--secondary { 
+  background-color: #e5e7eb; 
+  color: #1f2937; 
+}
+
+.botao--danger { 
+  background-color: #dc2626; 
+  color: white; 
+}
+
+.grid { 
+  display: grid; 
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); 
+  gap: 1rem; 
+}
+
+.projeto-card { 
+  background: white; 
+  border-radius: 8px; 
+  padding: 1rem; 
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1); 
+}
+
+.projeto-card_tags { 
+  display: flex; 
+  gap: 0.4rem; 
+  flex-wrap: wrap; 
+  margin-top: 0.6em; 
+}
+
+.tag { 
+  background-color: #e5e7eb; 
+  color: #374151; 
+  padding: 0.2rem 0.6rem; 
+  border-radius: 999px; 
+  font-size: 0.8rem; 
+}
